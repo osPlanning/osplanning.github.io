@@ -1,0 +1,36 @@
+# Site settings
+title: Open Source Planning
+url: http://osplanning.org
+description: "yadda yadda yadda"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: 2E2729
+  color-dark: 006B24
+  color-light: 009933
+  links: 009933
+  text: fff
+
+
+# Navbar
+brand-image: img/osplan2_wh.png
+nav-items:
+    - name: Get Updates
+      href: https://tinyletter.com/easall
+    - name: Get Code
+      href: http://github.com/osplanning
+
+
+# Footer settings
+copyright: 2015 Open Source Planning Initative
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/osplanning
+  - title: github
+    url: https://github.com/osplanning
+
+# Build settings
+markdown: kramdown
+permalink: pretty

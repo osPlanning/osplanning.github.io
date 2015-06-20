@@ -1,0 +1,22 @@
+goals:
+    - name: Methods
+      icon: fa-calculator
+      desc: Clearinghouse of innovative planning methods that 
+            can be applied across the country.
+    - name: Infrastructure
+      icon: fa-cogs
+      desc: Provide critical infrastructure – legal, funding, hosting – to support the 
+            development of innovative planning tools.
+    - name: Public Domain
+      icon: fa-comments
+      desc: Ensure advanced planning tools will remain in the public domain under clear open source licenses.
+    - name: Bring Research Closer to Practice
+      icon: fa-flask
+      desc: Lead the conversion of promising research in urban planning into applied tools for use by practitioners.
+    - name: Quality
+      icon: fa-check-circle-o
+      desc: Ensure tools developed under its guidance meet the most stringent software engineering and quality control standards.
+    - name: Standards
+      icon: fa-exchange
+      desc: Encourage the use of open data standards and interoperability across planning tools and related products.
+      
